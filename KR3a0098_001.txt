@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 人譜
-#+DATE: 2019-03-29 21:02:40.181270
+#+DATE: 2019-03-29 21:02:40.257425
 #+PROPERTY: ID KR3a0098
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 1
 <pb:KR3a0098_WYG_001-1a>¶
 　　欽定四庫全書¶
@@ -1194,7 +1194,7 @@
 ¶
 <pb:KR3a0098_WYG_001-55a>¶
 　　劉孝標家貧好學自以少時未能早悟晚更厲精從夕¶
-達旦或時昏睡&KR0761;其鬚髪及覺復讀以是明慧過人博¶
+達旦或時昏睡爇其鬚髪及覺復讀以是明慧過人博¶
 極羣書文藻秀出南北學者莫與為匹¶
 ¶
 　　祖瑩八歳即耽書父母恐其成疾禁之瑩於灰中藏火¶

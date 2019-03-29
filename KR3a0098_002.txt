@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 人譜
-#+DATE: 2019-03-29 21:02:40.204921
+#+DATE: 2019-03-29 21:02:40.275730
 #+PROPERTY: ID KR3a0098
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 2
 <pb:KR3a0098_WYG_002-1a>¶
 　　欽定四庫全書¶
@@ -140,7 +140,7 @@
 ¶
 　　皇甫績幼孤育於外祖韋孝寛嘗與諸外兄博弈孝寛¶
 以其惰業督以嚴訓憫績幼孤特宥之績曰我無庭訓¶
-養於外氏不能克躬厲己何以成立&KR0359;自感激命左右¶
+養於外氏不能克躬厲己何以成立㴱自感激命左右¶
 自杖三十於是精心好學涉略經史¶
 ¶
 <pb:KR3a0098_WYG_002-7b>¶

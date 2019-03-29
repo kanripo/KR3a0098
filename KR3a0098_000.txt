@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 人譜
-#+DATE: 2019-03-29 21:02:40.174913
+#+DATE: 2019-03-29 21:02:40.251596
 #+PROPERTY: ID KR3a0098
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 0
 <pb:KR3a0098_WYG_000-1a>¶
 　　欽定四庫全書　　　　　子部一¶
